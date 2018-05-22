@@ -13,6 +13,6 @@ public class FizzBuzzTest {
     assertTrue("FIZZBUZZ".equals(FizzBuzz.say(15)));
     assertTrue("FIZZ".equals(FizzBuzz.say(24)));
     assertTrue("BUZZ".equals(FizzBuzz.say(25)));
-    assertTrue("BUZZ".equals(FizzBuzz.say(4)));
+    assertTrue("4".equals(FizzBuzz.say(4)));
   }
 }

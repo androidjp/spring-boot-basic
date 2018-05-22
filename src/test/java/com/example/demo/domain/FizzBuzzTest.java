@@ -14,5 +14,6 @@ public class FizzBuzzTest {
     assertTrue("FIZZ".equals(FizzBuzz.say(24)));
     assertTrue("BUZZ".equals(FizzBuzz.say(25)));
     assertTrue("4".equals(FizzBuzz.say(4)));
+    assertTrue("7".equals(FizzBuzz.say(7)));
   }
 }

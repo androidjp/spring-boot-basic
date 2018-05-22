@@ -6,6 +6,6 @@ public class Fibonacci {
         if(num > 2) {
             return of(num - 2) + of(num - 1);
         }
-        return 1025;
+        return 133;
     }
 }
